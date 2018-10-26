@@ -11,9 +11,9 @@ func convert(word1Sub string, word2Sub string) int {
     if word1Sub[0] == word2Sub[0] {
         return convert(word1Sub[1:], word2Sub[1:])
     } else {
-        priceDelete := convert(word1Sub[1:], word2Sub)	//delete
-        priceReplace := convert(word1Sub[1:], word2Sub[1:])	// replace
-        priceInsert := convert(word1Sub, word2Sub[1:])	// insert
+        priceDelete := convert(word1Sub[1:], word2Sub)
+        priceReplace := convert(word1Sub[1:], word2Sub[1:])
+        priceInsert := convert(word1Sub, word2Sub[1:])
         priceMin := min(priceDelete, priceReplace, priceInsert) 
         return priceMin + 1 
     }
