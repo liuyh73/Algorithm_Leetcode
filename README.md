@@ -42,3 +42,5 @@ Here are some of the algorithm problems I did in leetcode.
 - [72. Edit Distance](https://blog.csdn.net/liuyh73/article/details/83409759)
 
 **week9:**
+- [87. Scramble String](https://blog.csdn.net/liuyh73/article/details/83716260)
+- [97. Interleaving String](https://blog.csdn.net/liuyh73/article/details/83717808)
