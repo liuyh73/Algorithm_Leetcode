@@ -50,4 +50,4 @@ Here are some of the algorithm problems I did in leetcode.
 - [63. Unique Paths Ⅱ](https://blog.csdn.net/liuyh73/article/details/83795070)
 - [64. Minimum Path Sum](https://blog.csdn.net/liuyh73/article/details/83795455)
 - [120. Triangle](https://blog.csdn.net/liuyh73/article/details/83795455)
-
+- [115. Distinct Subsequences](https://blog.csdn.net/liuyh73/article/details/83868450)
