@@ -41,3 +41,13 @@ Here are some of the algorithm problems I did in leetcode.
 - [32. Longest Valid Parentheses](https://blog.csdn.net/liuyh73/article/details/83382384)
 - [72. Edit Distance](https://blog.csdn.net/liuyh73/article/details/83409759)
 
+**week9:**
+- [87. Scramble String](https://blog.csdn.net/liuyh73/article/details/83716260)
+- [97. Interleaving String](https://blog.csdn.net/liuyh73/article/details/83717808)
+
+**week10:**
+
+- [63. Unique Paths Ⅱ](https://blog.csdn.net/liuyh73/article/details/83795070)
+- [64. Minimum Path Sum](https://blog.csdn.net/liuyh73/article/details/83795455)
+- [120. Triangle](https://blog.csdn.net/liuyh73/article/details/83795455)
+- [115. Distinct Subsequences](https://blog.csdn.net/liuyh73/article/details/83868450)
