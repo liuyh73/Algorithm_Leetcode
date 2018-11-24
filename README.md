@@ -57,3 +57,8 @@ Here are some of the algorithm problems I did in leetcode.
 - [123. Best Time to Buy and Sell Stock III](https://blog.csdn.net/liuyh73/article/details/84205494)
 - [45. Jump Game Ⅱ](https://blog.csdn.net/liuyh73/article/details/84206081)
 
+**week12：**
+
+- [152. Maximum Product Subarray](https://blog.csdn.net/liuyh73/article/details/84452471)
+- [132. Palindrome Partitioning II](https://blog.csdn.net/liuyh73/article/details/84446013)
+
