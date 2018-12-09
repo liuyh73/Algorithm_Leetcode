@@ -65,4 +65,8 @@ Here are some of the algorithm problems I did in leetcode.
 **week13:**
 
 - [57. Insert Interval](https://blog.csdn.net/liuyh73/article/details/84727163)
-- 
+- [188. Best Time to Buy and Sell Stock IV](https://blog.csdn.net/liuyh73/article/details/84927897)
+
+**week14:**
+- [174. Dungeon Game](https://blog.csdn.net/liuyh73/article/details/84929829)
+- [322. Coin Change](https://blog.csdn.net/liuyh73/article/details/84930500)
