@@ -51,3 +51,22 @@ Here are some of the algorithm problems I did in leetcode.
 - [64. Minimum Path Sum](https://blog.csdn.net/liuyh73/article/details/83795455)
 - [120. Triangle](https://blog.csdn.net/liuyh73/article/details/83795455)
 - [115. Distinct Subsequences](https://blog.csdn.net/liuyh73/article/details/83868450)
+
+**week11:**
+
+- [123. Best Time to Buy and Sell Stock III](https://blog.csdn.net/liuyh73/article/details/84205494)
+- [45. Jump Game Ⅱ](https://blog.csdn.net/liuyh73/article/details/84206081)
+
+**week12：**
+
+- [152. Maximum Product Subarray](https://blog.csdn.net/liuyh73/article/details/84452471)
+- [132. Palindrome Partitioning II](https://blog.csdn.net/liuyh73/article/details/84446013)
+
+**week13:**
+
+- [57. Insert Interval](https://blog.csdn.net/liuyh73/article/details/84727163)
+- [188. Best Time to Buy and Sell Stock IV](https://blog.csdn.net/liuyh73/article/details/84927897)
+
+**week14:**
+- [174. Dungeon Game](https://blog.csdn.net/liuyh73/article/details/84929829)
+- [322. Coin Change](https://blog.csdn.net/liuyh73/article/details/84930500)
